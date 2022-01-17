@@ -1,0 +1,13 @@
+{
+    "name": "daniel/translate-app",
+    "description": "Translation app from es to en",
+    "require": {
+        "psr/http-message": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Daniel Builes",
+            "email": "danielbgar@gmail.com"
+        }
+    ]
+}
